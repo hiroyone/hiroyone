@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hiroyone
-- 👀 I’m interested in developing cool and various webservices.
-- 🌱 I’m currently learning Svelte.
-- 💞️ I’m looking to collaborate on Japanese Learners App.
+Just write code and debug it.
 
 <!---
 hiroyone/hiroyone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
